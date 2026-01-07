@@ -74,5 +74,5 @@ static final int HEIGHT = 600;     // Window Height
 static final int UNIT_SIZE = 25;   // Size of the snake/grid blocks
 static final int DELAY = 75;       // Game speed (Lower is faster)
 
-<img width="294" height="171" alt="image" src="https://github.com/user-attachments/assets/4d95d61c-e4bf-46a0-adf0-20d4a2832672" />
+!<img width="294" height="171" alt="image" src="https://github.com/user-attachments/assets/4d95d61c-e4bf-46a0-adf0-20d4a2832672" />
 Created by Abdullah Rafi
